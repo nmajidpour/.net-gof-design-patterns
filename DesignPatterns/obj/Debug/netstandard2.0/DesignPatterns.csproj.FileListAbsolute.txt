@@ -1,9 +1,0 @@
-C:\Users\naghmeh.majidpour\Desktop\.net-gof-design-patterns\DesignPatterns\obj\Debug\netstandard2.0\DesignPatterns.csprojAssemblyReference.cache
-C:\Users\naghmeh.majidpour\Desktop\.net-gof-design-patterns\DesignPatterns\obj\Debug\netstandard2.0\DesignPatterns.csproj.CoreCompileInputs.cache
-C:\Users\naghmeh.majidpour\Desktop\.net-gof-design-patterns\DesignPatterns\obj\Debug\netstandard2.0\DesignPatterns.AssemblyInfoInputs.cache
-C:\Users\naghmeh.majidpour\Desktop\.net-gof-design-patterns\DesignPatterns\obj\Debug\netstandard2.0\DesignPatterns.AssemblyInfo.cs
-C:\Users\naghmeh.majidpour\Desktop\.net-gof-design-patterns\DesignPatterns\bin\Debug\netstandard2.0\DesignPatterns.deps.json
-C:\Users\naghmeh.majidpour\Desktop\.net-gof-design-patterns\DesignPatterns\bin\Debug\netstandard2.0\DesignPatterns.dll
-C:\Users\naghmeh.majidpour\Desktop\.net-gof-design-patterns\DesignPatterns\bin\Debug\netstandard2.0\DesignPatterns.pdb
-C:\Users\naghmeh.majidpour\Desktop\.net-gof-design-patterns\DesignPatterns\obj\Debug\netstandard2.0\DesignPatterns.dll
-C:\Users\naghmeh.majidpour\Desktop\.net-gof-design-patterns\DesignPatterns\obj\Debug\netstandard2.0\DesignPatterns.pdb
