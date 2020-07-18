@@ -1,12 +1,13 @@
-using System.Collections;
-using System;
-
-public class AddToList : ICommand
+public class Calculator
 {
-    private List<object> list = new List<object>();
-
-    void Execute(object o)
+    private int _a, _b;
+    public Calculator(int a, int b)
     {
-        list.Add(o);
+        _a = a;
+        _b = b;
+    }
+    public int Add()
+    {
+        return _a + _b;
     }
 }

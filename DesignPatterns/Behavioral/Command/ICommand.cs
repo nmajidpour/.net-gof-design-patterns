@@ -1,4 +1,4 @@
 interface ICommand
 {
-    void Execute(object o);
+    int Execute();
 }
